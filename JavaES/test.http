@@ -1,0 +1,9 @@
+POST http://localhost:8084/saveCV
+Content-Type: application/json
+
+{
+  fullname
+}
+
+###
+
